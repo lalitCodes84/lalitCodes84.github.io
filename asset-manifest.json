@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a3782206.css",
+    "main.js": "/static/js/main.35ea9eb9.js",
+    "static/media/img3.png": "/static/media/img3.c2a1a35187970c011254.png",
+    "static/media/Lalit Sharma.jpg": "/static/media/Lalit Sharma.58a0fd401d2132083e23.jpg",
+    "static/media/img4.png": "/static/media/img4.983993a9b364ae9b6156.png",
+    "static/media/me-p.png": "/static/media/me-p.4cfdffa7d5d8cc84b45b.png",
+    "static/media/Lalit-a.png": "/static/media/Lalit-a.649280b02886d3857247.png",
+    "index.html": "/index.html",
+    "main.a3782206.css.map": "/static/css/main.a3782206.css.map",
+    "main.35ea9eb9.js.map": "/static/js/main.35ea9eb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3782206.css",
+    "static/js/main.35ea9eb9.js"
+  ]
+}
